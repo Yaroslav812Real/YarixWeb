@@ -1,0 +1,38 @@
+body{
+    background: #000000;
+    color: #ffffff;
+}
+
+h1{
+    text-align: center;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+hr{
+    color: #8a2be2;
+}
+
+.bg{
+    background: linear-gradient(to top, #8a2be2, #000000);
+    transition: 0.3s ease-in-out;
+}
+
+a{
+    text-decoration: none;
+    color: #8a2be2;
+    transition: 0.3s ease-in-out;
+}
+
+a:hover{
+    color: white;
+}
+
+.back{
+    text-align: center;
+    font-size: 20px;
+}
