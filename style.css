@@ -19,7 +19,6 @@ hr{
 
 .bg{
     background: linear-gradient(to top, #8a2be2, #000000);
-    transition: 0.3s ease-in-out;
 }
 
 a{
